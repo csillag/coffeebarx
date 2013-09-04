@@ -1,11 +1,11 @@
 {
-  "name": "coffeebar",
-  "version": "0.3.0",
-  "author": "Charles Moncrief",
-  "description": "Simplified CoffeeScript build tool.",
+  "name": "coffeebarx",
+  "version": "0.0.1",
+  "author": "Kristof Csillag",
+  "description": "Simplified CoffeeScript build tool, fork of coffeebar.",
   "main": "lib/coffeebar.js",
   "bin": {
-    "coffeebar": "./bin/coffeebar"
+    "coffeebarx": "./bin/coffeebar"
   },
   "scripts": {
     "prepublish": "cake build",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cmoncrief/coffeebar.git"
+    "url": "https://github.com/csillag/coffeebarx.git"
   },
   "keywords": [
     "coffee",

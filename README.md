@@ -1,4 +1,7 @@
-# Coffeebar
+# CoffeebarX
+
+CoffeebarX is a temporary fork of [Coffeebar](https://github.com/cmoncrief/coffeebar).
+It will go away as soon as https://github.com/cmoncrief/coffeebar/pull/2 is merged.
 
 [![Build Status](https://travis-ci.org/cmoncrief/coffeebar.png)](https://travis-ci.org/cmoncrief/coffeebar)
 
