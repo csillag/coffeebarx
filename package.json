@@ -1,6 +1,6 @@
 {
   "name": "coffeebarx",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Kristof Csillag",
   "description": "Simplified CoffeeScript build tool, fork of coffeebar.",
   "main": "lib/coffeebar.js",
